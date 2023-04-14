@@ -1,9 +1,5 @@
 # Construct-RPG
 
-Dungeon Runner game file too large to commit
-
-dropbox for game: https://www.dropbox.com/s/hl11v3bemvnoyay/Dungeon%20Runner.c3p?dl=0
-
 Game can be run here https://editor.construct.net/   Menu > Project > Open local file
 
 
